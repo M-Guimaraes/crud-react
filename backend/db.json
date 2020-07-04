@@ -1,3 +1,9 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "Antônio Carlos de Souza",
+      "email": "asouza@empresa.com.br",
+      "id": 1
+    }
+  ]
 }
